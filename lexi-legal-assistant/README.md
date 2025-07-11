@@ -2,16 +2,17 @@
 
 A modern, interactive legal query assistant built with React and Framer Motion. This tool allows users to submit legal questions and receive simulated answers with proper citations to supporting legal documents.
 
-## 📸Screenshot
+
+## 🔗Live Link
 
 
 ## 📖Fearures
-✅ Ask a legal question through a clean, responsive form
-✅ Receive authoritative simulated answers with supporting citations
-✅ Smooth animations using Framer Motion
-✅ Beautiful, modern UI with Tailwind CSS
-✅ External PDF document link opens directly in a new tab
-✅ Loading spinner while the system processes your query
+* ✅ Ask a legal question through a clean, responsive form
+* ✅ Receive authoritative simulated answers with supporting citations
+* ✅ Smooth animations using Framer Motion
+* ✅ Beautiful, modern UI with Tailwind CSS
+* ✅ External PDF document link opens directly in a new tab
+* ✅ Loading spinner while the system processes your query
 
 ## 📦Tech Stack
 * React
@@ -19,3 +20,5 @@ A modern, interactive legal query assistant built with React and Framer Motion. 
 * Tailwind Css
 * Vite
 
+## 📬 Contact
+Made with ❤️ by [Harsh Pratap Singh](mailto:sainyy11@gmail.com)
