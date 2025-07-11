@@ -20,5 +20,21 @@ go
 * Tailwind Css
 * Vite
 
+## 🚀 How to Run Locally
+
+1. Clone the repo:
+   ```bash
+   git clone 
+   ```
+2. Install dependencies:
+
+```bash
+npm install
+```
+3. Start the server:
+```bash
+npm run dev
+```
+
 ## 📬 Contact
 Made with ❤️ by [Harsh Pratap Singh](mailto:sainyy11@gmail.com)
