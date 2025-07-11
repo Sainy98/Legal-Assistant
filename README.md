@@ -4,7 +4,7 @@ A modern, interactive legal query assistant built with React and Framer Motion. 
 
 
 ## 🔗Live Link
-go
+
 
 ## 📖Fearures
 * ✅ Ask a legal question through a clean, responsive form
@@ -28,13 +28,13 @@ go
    ```
 2. Install dependencies:
 
-```bash
-npm install
-```
+    ```bash
+    npm install
+    ```
 3. Start the server:
-```bash
-npm run dev
-```
+    ```bash
+    npm run dev
+    ```
 
 ## 📬 Contact
 Made with ❤️ by [Harsh Pratap Singh](mailto:sainyy11@gmail.com)
