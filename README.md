@@ -4,7 +4,7 @@ A modern, interactive legal query assistant built with React and Framer Motion. 
 
 
 ## 🔗Live Link
-
+go
 
 ## 📖Fearures
 * ✅ Ask a legal question through a clean, responsive form
