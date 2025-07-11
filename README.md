@@ -3,8 +3,13 @@
 A modern, interactive legal query assistant built with React and Framer Motion. This tool allows users to submit legal questions and receive simulated answers with proper citations to supporting legal documents.
 
 
+## 📸Screnshot
+![screenshot](./lexi-legal-assistant/public/ScreenRecording.gif)
+
+
 ## 🔗Live Link
-![vide](lexi-legal-assistant/public/ScreenRecording.mp4)
+
+
 
 ## 📖Fearures
 * ✅ Ask a legal question through a clean, responsive form
